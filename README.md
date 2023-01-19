@@ -2,7 +2,7 @@
 
 <br>
 
-### 북커톤에 참가한 'Hey, Shakesby(헤이, 셰익스비)' 팀입니다.
+북커톤에 참가한 'Hey, Shakesby(헤이, 셰익스비)' 팀입니다. 저희는 쓴 이야기는 아래에 그림과 함께 잘 요약되어 있습니다. 그림은 openAI 에서 제공하는 [DALLE2](https://openai.com/dall-e-2/)를 활용하여 제작하였습니다.
 
 <br>
 
@@ -14,18 +14,21 @@
 
 <br>
 
-## Title: 동행 
-- (대회 주제: 담대한)
-
-<br>
-
 ![](image/story_abstraction.png)
 
 <br>
 
 <details>
-<summary>더 자세한 이야기 펼치기</summary>
+<summary>자세한 이야기 펼치기/접기</summary>
 <div markdown="1">
+
+<br>
+
+### 제목: 동행
+
+<br>
+
+이 작품의 제목을 유추하셨나요? 소년이 담대함을 찾아가는 과정은 우리가 인생을 살아가며 깨닫는 것과 닮아있다고 생각했습니다. 그래서 제목은 '동행'이라고 지었습니다.
 
 <br>
 
