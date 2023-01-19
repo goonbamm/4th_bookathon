@@ -1,5 +1,4 @@
 ## 4th_bookathon 📚
-----
 
 <br>
 
@@ -12,7 +11,6 @@
 <br>
 
 ## Story 🌈
-----
 
 <br>
 
@@ -84,14 +82,13 @@
 <br>
 
 ## Review 📝
-----
 
 자세한 [후기](https://heygeronimo.tistory.com/42)는 여기서 보실 수 있습니다.
 
 <br>
 
 ## Requirements 🔑
-----
+
 ~~~
 pip install numpy pandas torch
 pip install kss
