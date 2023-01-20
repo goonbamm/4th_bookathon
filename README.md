@@ -10,6 +10,10 @@
 
 <br>
 
+Hey, Shakesby: [김도현](https://github.com/brianzkim), [박지열](https://github.com/goonbamm), [변지환](https://github.com/Quswlghks), [전서린](https://github.com/seolinj), [전효림](https://github.com/jeonhyolim)
+
+<br>
+
 ## Story 🌈
 
 <br>
