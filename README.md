@@ -88,6 +88,10 @@ Hey, Shakesby: [김도현](https://github.com/brianzkim), [박지열](https://gi
 
 <br>
 
+글의 원문은 [여기](book/final_output/동행.pdf)에서 확인할 수 있습니다.
+
+<br>
+
 ## Review 📝
 
 자세한 [후기](https://heygeronimo.tistory.com/42)는 여기서 보실 수 있습니다.
@@ -107,3 +111,35 @@ pip install wandb (optional)
 - [kss](https://github.com/hyunwoongko/kss)
 - [huggingface🤗](https://github.com/huggingface/transformers)
 - [wandb](https://github.com/wandb/wandb)
+
+<br>
+
+## Usage 💻
+
+<br>
+
+### Train
+
+~~~
+python generation/train/main.py
+~~~
+
+: 사용하실 때, config file 을 json 형태로 만들어주세요. 이때, 저장 경로 등을 신경써주세요.
+
+<br>
+
+### Test
+
+~~~
+python generation/test/inference.py --model_path your_model_path
+~~~
+
+: 사용하실 때, args 에서 사용할 모델 경로를 확인해주세요. 굳이 분리하여 작성한 이유는 대회 당시에 동시에 5명이서 inference 를 진행해야 해서 부득이하게 별도 작성하였습니다.
+
+<br>
+
+### Crawling
+
+- python 으로 실행하시면 됩니다.
+- 다만 운영체제와 Chrome Version 에 준수하여, driver 를 설치하시길 바랍니다.
+- 코드마다 대문자로 적힌 변수에 맞춰 입력하시면 됩니다.
